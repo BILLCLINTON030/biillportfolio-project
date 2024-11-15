@@ -1,15 +1,15 @@
 /* General Styling */
 body {
     font-family: Arial, sans-serif;
-    color: #333;
-    background-color: #ffffff;
+    color:white;
+    background-color: black;
     margin: 0;
 }
 
 /* Header Styling */
 header {
     
-    background-color: #4682B4;
+    background-color:red;
     color: #fff;
     padding: 0.1rem;
     text-align: center;
@@ -41,18 +41,19 @@ header nav ul li a {
 }
 
 .jumbotron {
-    background-color: #46b4b4;
-    color: #ffffff;
+    background-image: url(../img/hac\ 1.jpeg);
+    color: white);
+    size: 234cap;
 }
 
 .enroll {
-    background-color: #4682B4;
-    color: #ffffff;
+    background-image: url(../img/pro2.jpeg);
+    color: white;
 }
 
 button {
     margin-top: 1rem;
-    background-color: #FF6347;
+    background-color: #ff475f;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
@@ -62,7 +63,7 @@ button {
 }
 
 button:hover {
-    background-color: #FF4500;
+    background-color: #1100ffbe;
 }
 
 .course-list {
@@ -82,9 +83,11 @@ footer {
 
 /* Section Background Colors */
 #about {
-    background-color: dimgrey;
+    background-color: #4682B4;
 }
-
+#about{
+    color: #bd0e22;
+}
 #courses {
     background-color: thistle;
 }

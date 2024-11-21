@@ -1,7 +1,7 @@
 /* General Styling */
 body {
     font-family: Arial, sans-serif;
-    color:white;
+    color: white;
     background-color: blue;
     margin: 0;
 }
@@ -9,8 +9,8 @@ body {
 /* Header Styling */
 header {
     
-    background-color:red;
-    color: #fff;
+    background-color:white;
+    color: blue;
     padding: 0.1rem;
     text-align: center;
 }
@@ -24,7 +24,7 @@ header nav ul {
 }
 
 header nav ul li a {
-    color: #ffffff;
+    color: blue;
     text-decoration: none;
     font-weight: bold;
 }
@@ -42,7 +42,7 @@ header nav ul li a {
 
 .jumbotron {
     background-image: url(../img/hac\ 1.jpeg);
-    color: white);
+    color: diamond);
     size: 234cap;
 background-size:cover;
 background-position: center;
@@ -85,18 +85,18 @@ footer {
 
 /* Section Background Colors */
 #about {
-    background-color: #4682B4;
+    background-color:maroon;
 }
 #about{
-    color: #bd0e22;
+    color: white
 }
 #courses {
-    background-color: thistle;
+    background-color: gold;
 }
 
 /* Contact Us Section Styling */
 #contact {
-    background-color: lightblue;
+    background-color: orange;
     padding: 1rem;
     height:200px; /* Set specific height */
     display: flex;
